@@ -1,0 +1,19 @@
+body { background-color: gray;
+}
+  .icerik { width: 618px; margin:auto}
+h2 { font-size: 2.5em; font-family: Georgia; text-shadow: 4px 4px 4px slateblue;
+ letter-spacing: 0.1em;  }
+h2 span { display: block; margin-top: 0.5em; font-family: Verdana; 
+ font-size: 0.6em; font-weight: normal; letter-spacing: 0em; text-shadow: none; }
+.yazar { font-family: Georgia; color: black; font-size: 0.85em; 
+ font-style: italic; letter-spacing: 0.25em; padding-bottom: 0.5em; 
+ border-bottom: 1px solid gainsboro; }
+.yazar span { text-transform: capitalize; font-style: normal; color: #999; }
+.icerik p { font-family: Verdana; line-height: 1.5em; color: black }
+.icerik p:first-child { font-size: 1.25em; font-family: Georgia; 
+ font-style: italic; letter-spacing: 0.1em; }
+.icerik p:first-child:first-line { font-weight: bold; }
+p{
+  text-shadow: 2px 2px black;
+}
+

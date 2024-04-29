@@ -1,0 +1,31 @@
+body {
+    background-image: url(img/WP1.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+  }
+
+.gecis1{
+    width: 20%; background: linear-gradient(to right, skyblue , #23538A);
+}
+.gecis2{
+    width: 20%; background: linear-gradient(to top, darkblue,aqua);
+}
+.gecis3{
+    width: 25%; background: linear-gradient(to left, purple,yellow);
+}
+.gecis4{
+    width: 30%; background-image: url(img/wp1928293-shield-wallpapers.jpg);
+}
+.gecis5{
+    width: 25%; background: linear-gradient(to left, slateblue,silver);
+}
+div{ height: 100px; color:white; font-size:20px; border-radius: 10px; }
+div:hover{
+    width: 1000px; cursor:hand; 
+    transition-property: width; transition-duration:0.5s; transition-delay:0.1s;}
+    h1 {
+        text-shadow: 4px 4px darkblue;
+      }
+      h4{
+        text-shadow: 4px 4px black;
+      }
